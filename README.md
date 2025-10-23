@@ -43,8 +43,9 @@ Escape - выход
 - PyQt5
 - PyGame
 
-### Установка зависимостей
+### Установка зависимостей и запуск приложения
 ```bash
 pip install pyqt5 pygame
+python Проект.py
 
 
